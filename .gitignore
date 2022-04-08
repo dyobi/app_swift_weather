@@ -8,6 +8,7 @@
 #           - AS PER https://guides.cocoapods.org/using/using-cocoapods.html NEVER IGONRE THE LOCK FILE
 Pods/
 
+.DS_Store
 ### Swift ###
 # Xcode
 #
