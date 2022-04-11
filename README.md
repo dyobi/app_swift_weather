@@ -1,4 +1,4 @@
-# SWIFTUI_WEATHER
+# Weather Application
 
 > IOS Application using SwiftUI
 
@@ -6,6 +6,6 @@
 
 ## Preview
 
-<img src="https://github.com/dyobi/SWIFTUI_WEATHER/blob/main/PREVIEW.gif?raw=true" width="60%" title="preview" alt="preview">
+<img src="https://github.com/dyobi/app_swift_weather/blob/main/PREVIEW.gif?raw=true" width="60%" title="preview" alt="preview">
 
 ---
